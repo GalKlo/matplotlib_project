@@ -32,8 +32,8 @@ Script allows to perform the following steps of the analysis:
 
 The experiment was performed on 249 mise. Analysis was performed on the 248 testing records (1 mouse testing result was excluded from the analysis dues to wrong entry).  
 51% of the mice were Males and 49% - Females. 
-![Getting Started](Pymaceuticals/graphs/sex_distribution.png)
 
+![Getting Started](Pymaceuticals/graphs/sex_distribution.png)
 
 The data was collected form the test results of 10 different regimens:
 - Capomulin,
@@ -46,7 +46,8 @@ The data was collected form the test results of 10 different regimens:
 - Ramicane,
 - Stelasyn,
 - Zoniferol.
-The number of observed Mouse Timepoints vary for different regimens
+The number of observed Mouse Timepoints vary for different regimens.
+
 ![Getting Started](Pymaceuticals/graphs/regiments_timepoints.png)
 
 #### Capomulin Results
