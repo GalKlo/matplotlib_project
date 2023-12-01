@@ -1,4 +1,4 @@
-# matplotlib_project
+# Pharmaceutical Study Analysis
 
 ## Description
 This project is designed to provide a comprehensive high-level summary of pharmaceutical study results through advanced analysis and visualization techniques. By delving into the performance of various drugs, the project aims to distill complex study data into clear and meaningful insights. 
